@@ -1,0 +1,14 @@
+.Board {
+  background-color: rgb(34, 33, 33);
+  height: 200px;
+  width: 210px;
+  margin: auto;
+  margin-top: 10px;
+}
+.Cell {
+  background-color: rgb(41, 39, 39);
+
+}
+.CellLit {
+  background-color:rgb(2, 200, 250);
+}
